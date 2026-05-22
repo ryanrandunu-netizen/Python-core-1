@@ -1,0 +1,10 @@
+num=int(input('Enter a number :'))
+while(num!=-1):
+    num=int(input('Enter a number :'))
+    if(num==25):
+        print('Found')
+        break
+else:
+    print('Not foud')
+      
+    
